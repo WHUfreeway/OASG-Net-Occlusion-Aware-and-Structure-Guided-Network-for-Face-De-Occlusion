@@ -1,0 +1,2 @@
+*.largefileextension filter=lfs diff=lfs merge=lfs -text
+utils/gcn-levels_3-classes_0123456-valset_2-lr_0.001-lrdecay_0.2-lrmilestones_35_90_180-wdecay_0.0005-momentum_0.99-dataaugment-SunglassesHandsMasks_0.5/*.pth filter=lfs diff=lfs merge=lfs -text
